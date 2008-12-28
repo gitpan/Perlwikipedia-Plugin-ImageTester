@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Perlwikipedia-Plugin-ImageTester
-version:            0.1.2
+version:            0.1.2_01
 abstract:           a plugin for Perlwikipedia which contains image copyright checking and analysis for the english wikipedia
 author:
     - Dan Collins (ST47)
@@ -11,7 +11,7 @@ configure_requires:
 requires:
     Carp:            0
     HTML::Entities:  1.35
-    Perlwikipedia:   
+    Perlwikipedia:   1.5.2
     URI::Escape:     3.28
     WWW::Mechanize:  1.30
     XML::Simple:     2.16

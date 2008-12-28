@@ -11,7 +11,7 @@ WriteMakefile(
 			   URI::Escape    => 3.28,
 			   XML::Simple    => 2.16,
 			   Carp 	       => 0,
-			   Perlwikipedia  => 1.5.2},
+			   Perlwikipedia  => '1.5.2'},
 	 ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
 	 (ABSTRACT_FROM    => 'lib/Perlwikipedia/Plugin/ImageTester.pm', # retrieve abstract from module
     AUTHOR            => 'Dan Collins (ST47)') : () ),
