@@ -4,7 +4,7 @@ Makefile.PL
 MANIFEST
 README
 CHANGES
-lib/ImageTester.pm
+lib/Perlwikipedia/Plugin/ImageTester.pm
 gpl.txt
 t/00_initialize.t
 t/01_parser.t
